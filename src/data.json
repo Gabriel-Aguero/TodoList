@@ -1,0 +1,29 @@
+[
+      {
+        "id": 1,
+        "tarea": "Comprar víveres",
+        "completada": true
+      },
+      {
+        "id": 2,
+        "tarea": "Limpiar la casa",
+        "completada": false
+      },
+      {
+        "id": 3,
+        "tarea": "Hacer ejercicio",
+        "completada": true
+      },
+      {
+        "id": 4,
+        "tarea": "Leer un libro",
+        "completada": false
+      }
+]
+  
+  
+  
+  
+  
+  
+  
