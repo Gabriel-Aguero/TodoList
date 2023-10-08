@@ -1,8 +1,13 @@
-# React + Vite
+# Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicacion lista de tareas creada co el proposito de mejorar buenas prácticas.
 
-Currently, two official plugins are available:
+### Tecnología utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--Mlg5l4AO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g0evm74roi20cgsnlofv.png)
+
+## Creada y diseñada por Gabriel Agüero.
+
+### Sobre mi
+
+Mi nombre es Gabriel Agüero, soy un apasionado por la tecnología y la programación.  
